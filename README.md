@@ -1,3 +1,3 @@
 # - Easybank landing page
 
-ambymbayi.github.io/easybank/
+<a href="ambymbayi.github.io/easybank/">Easy Bank</a>
