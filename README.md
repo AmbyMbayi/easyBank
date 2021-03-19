@@ -1,6 +1,6 @@
 # - Easybank landing page
 
-<a href="ambymbayi.github.io/easybank/">Easy Bank</a>
+<a href="https://ambymbayi.github.io/easyBank/">Easy Bank</a>
 
 <img src="https://i.ibb.co/WfyQkfr/easy-Bank-landscape.png" alt="easy-Bank-landscape" border="0">
 
